@@ -164,8 +164,8 @@
     margin-top: 1em;
     margin-right: auto;
     border-style: solid;
-    border-color: darkgray;
-    border-width: .1em;
+    border-color: lightgray;
+    border-width: .05em;
     display: block;
 }
 
