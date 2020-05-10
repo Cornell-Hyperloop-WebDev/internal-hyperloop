@@ -2,6 +2,7 @@ header{
   background-color: rgb(136, 0, 0);
   color: white;
   text-align: center;
+  padding-top: .5em;
 }
 
 .post-editor{
@@ -16,6 +17,18 @@ header{
 
 .post{
   margin: 1em 20%;
+}
+
+#signInContainer{
+  padding-bottom: 1em;
+  float: right;
+  margin-top: -4.5em;
+}
+
+#logOutContainer{
+  padding-bottom: 1em;
+  float: right;
+  margin-top: -4.25em;
 }
 
 @media(max-width: 900px){
